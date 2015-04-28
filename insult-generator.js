@@ -40,7 +40,7 @@ function rand(min, max) {
 
 setInterval(function() {
     use();
-}, 4000);
+}, 10000);
 
 function use() {
     timesUsed++;
